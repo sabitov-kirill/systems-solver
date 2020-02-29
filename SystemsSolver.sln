@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemsSolver.GUI", "SystemsSolver.GUI\SystemsSolver.GUI.csproj", "{2F9C7C1A-3EB1-4073-9D87-C64951B6D27A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F18B3229-3CF8-445C-8FCC-6E098D7BFDD7} = {F18B3229-3CF8-445C-8FCC-6E098D7BFDD7}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SystemsSolver.Logic", "SystemsSolver.Logic\SystemsSolver.Logic.csproj", "{F18B3229-3CF8-445C-8FCC-6E098D7BFDD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F9C7C1A-3EB1-4073-9D87-C64951B6D27A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9C7C1A-3EB1-4073-9D87-C64951B6D27A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9C7C1A-3EB1-4073-9D87-C64951B6D27A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9C7C1A-3EB1-4073-9D87-C64951B6D27A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F18B3229-3CF8-445C-8FCC-6E098D7BFDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18B3229-3CF8-445C-8FCC-6E098D7BFDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18B3229-3CF8-445C-8FCC-6E098D7BFDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18B3229-3CF8-445C-8FCC-6E098D7BFDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {468809BF-8E52-4292-B9E8-D751F123CA18}
+	EndGlobalSection
+EndGlobal

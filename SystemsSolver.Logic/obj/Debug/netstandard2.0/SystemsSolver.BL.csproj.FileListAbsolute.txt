@@ -1,0 +1,16 @@
+C:\Users\Пажилой человек\source\repos\Project\SystemsSolver.BL\obj\Debug\netstandard2.0\SystemsSolver.BL.csprojAssemblyReference.cache
+C:\Users\Пажилой человек\source\repos\Project\SystemsSolver.BL\obj\Debug\netstandard2.0\SystemsSolver.BL.AssemblyInfoInputs.cache
+C:\Users\Пажилой человек\source\repos\Project\SystemsSolver.BL\obj\Debug\netstandard2.0\SystemsSolver.BL.AssemblyInfo.cs
+C:\Users\Пажилой человек\source\repos\Project\SystemsSolver.BL\bin\Debug\netstandard2.0\SystemsSolver.BL.deps.json
+C:\Users\Пажилой человек\source\repos\Project\SystemsSolver.BL\bin\Debug\netstandard2.0\SystemsSolver.BL.dll
+C:\Users\Пажилой человек\source\repos\Project\SystemsSolver.BL\bin\Debug\netstandard2.0\SystemsSolver.BL.pdb
+C:\Users\Пажилой человек\source\repos\Project\SystemsSolver.BL\obj\Debug\netstandard2.0\SystemsSolver.BL.dll
+C:\Users\Пажилой человек\source\repos\Project\SystemsSolver.BL\obj\Debug\netstandard2.0\SystemsSolver.BL.pdb
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.BL\bin\Debug\netstandard2.0\SystemsSolver.BL.deps.json
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.BL\bin\Debug\netstandard2.0\SystemsSolver.BL.dll
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.BL\bin\Debug\netstandard2.0\SystemsSolver.BL.pdb
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.BL\obj\Debug\netstandard2.0\SystemsSolver.BL.csprojAssemblyReference.cache
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.BL\obj\Debug\netstandard2.0\SystemsSolver.BL.AssemblyInfoInputs.cache
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.BL\obj\Debug\netstandard2.0\SystemsSolver.BL.AssemblyInfo.cs
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.BL\obj\Debug\netstandard2.0\SystemsSolver.BL.dll
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.BL\obj\Debug\netstandard2.0\SystemsSolver.BL.pdb

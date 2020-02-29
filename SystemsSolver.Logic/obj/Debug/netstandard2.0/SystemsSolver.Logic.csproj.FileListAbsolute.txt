@@ -1,0 +1,16 @@
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.BL\obj\Debug\netstandard2.0\SystemsSolver.Logic.AssemblyInfoInputs.cache
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.BL\obj\Debug\netstandard2.0\SystemsSolver.Logic.AssemblyInfo.cs
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.BL\bin\Debug\netstandard2.0\SystemsSolver.Logic.deps.json
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.BL\bin\Debug\netstandard2.0\SystemsSolver.Logic.dll
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.BL\bin\Debug\netstandard2.0\SystemsSolver.Logic.pdb
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.BL\obj\Debug\netstandard2.0\SystemsSolver.Logic.dll
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.BL\obj\Debug\netstandard2.0\SystemsSolver.Logic.pdb
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.BL\obj\Debug\netstandard2.0\SystemsSolver.Logic.csprojAssemblyReference.cache
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.Logic\bin\Debug\netstandard2.0\SystemsSolver.Logic.deps.json
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.Logic\bin\Debug\netstandard2.0\SystemsSolver.Logic.dll
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.Logic\bin\Debug\netstandard2.0\SystemsSolver.Logic.pdb
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.Logic\obj\Debug\netstandard2.0\SystemsSolver.Logic.csprojAssemblyReference.cache
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.Logic\obj\Debug\netstandard2.0\SystemsSolver.Logic.AssemblyInfoInputs.cache
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.Logic\obj\Debug\netstandard2.0\SystemsSolver.Logic.AssemblyInfo.cs
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.Logic\obj\Debug\netstandard2.0\SystemsSolver.Logic.dll
+C:\Users\Пажилой человек\Documents\Программы (VS)\Project\SystemsSolver.Logic\obj\Debug\netstandard2.0\SystemsSolver.Logic.pdb
